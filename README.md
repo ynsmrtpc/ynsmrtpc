@@ -7,7 +7,7 @@ Web Developer
 I am a 4th year software engineering student at Üsküdar University. I started my university life in Kırklareli, at Kırklareli University. Since there are more opportunities in the field I studied in Istanbul and I thought I could improve myself better, I completed my 1 year there and came to Istanbul with a horizontal transfer. I transferred to Üsküdar University. After a year of English preparatory education, I continued my education from the 2nd grade. I am currently in the 4th grade and I did my summer internship in the summer of 2021 at the company Receiving, in line with my school's mandatory requirement and my belief that work is learned on the job. During my internship, I learned about e-commerce sites and technologies. I developed MVC applications and learned C#, JavaScript, HTML and CSS. Even though my internship is over, I watch videos on Udemy and Youtube and reinforce what I have learned by doing small projects, and I aim to always be one step ahead in the sector by improving myself with small projects I get from outside.
 
 * 🌍  I'm based in Istanbul
-* 🖥️  See my portfolio at [here.](http://https://yunusemre-topcu.netlify.app/)
+* 🖥️  See my portfolio at [here.](https://yunusemre-topcu.netlify.app/)
 * ✉️  You can contact me at [yunusemre\_topcu@hotmail.com](mailto:yunusemre_topcu@hotmail.com)
 
 ### Skills
