@@ -8,7 +8,7 @@ I am a 4th year software engineering student at Üsküdar University. I started 
 
 * 🌍  I'm based in Istanbul
 * 🖥️  See my portfolio at [here.](https://yunusemre-topcu.netlify.app/)
-* ✉️  You can contact me at [yunusemre\_topcu@hotmail.com](mailto:yunusemre_topcu@hotmail.com)
+* ✉️  You can contact me at [yunusemre\_topcu@outlook.com](mailto:yunusemre_topcu@outlook.com)
 
 ### Skills
 
