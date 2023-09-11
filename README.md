@@ -1,6 +1,6 @@
-# 💫 About Me:
+# 💫 Hello, world!
 
-🚀 Hello, world! I'm Yunus Emre Topçu, a Software Engineer embarking on a journey through the enchanting realm of code. A graduate of Uskudar University, I'm pushing the boundaries of the digital world as a Fullstack Developer at Zeytinburnu Municipality.
+🚀 I'm Yunus Emre Topçu, a Software Engineer embarking on a journey through the enchanting realm of code. A graduate of Uskudar University, I'm pushing the boundaries of the digital world as a Fullstack Developer at Zeytinburnu Municipality.
 
 💻 In the enchanting world of Frontend, I craft captivating user interfaces with technologies like ReactJS and VueJS. Breathing life into my designs 🎨 and achieving elegance with Tailwind CSS.
 
